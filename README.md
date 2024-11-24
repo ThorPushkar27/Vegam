@@ -6,4 +6,4 @@ It works similar to this video:  https://youtu.be/nJ_MNh9gOaw?si=4OfKSqHjnwoz9Mz
 
 For frontend, I have used HTML, CSS and Javascript.
 
-Notw: Good Prompt will give you better answers. 
+Notw: Good Prompt will give you better answers.  and it takes time to extract the result if you are on CPU system. In case of GPU, the process is fast.
